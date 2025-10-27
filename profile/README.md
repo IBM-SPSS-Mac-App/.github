@@ -57,8 +57,6 @@ Optimized for **Apple Silicon and Intel processors**, IBM SPSS offers enhanced p
 
 ## Screenshots  
 
-![IBM SPSS Interface](https://static.macupdate.com/screenshots/352796/m/ibm-spss-statistics-screenshot.png?v=1701263196)  
-
 ![SPSS Data Visualization](https://imag.malavida.com/mvimgbig/download-fs/ibm-spss-statistics-11640-5.jpg)  
 
 ---
